@@ -8,4 +8,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/rollaball.unity
     guid: 08316a5c835e8bd4f88f396c149b3f2a
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 0d14d59f9f783d04ea999da3fb452ae6, type: 2}
